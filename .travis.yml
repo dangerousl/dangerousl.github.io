@@ -1,4 +1,6 @@
 language: minimal
+# workaround for libssl error?
+dist: bionic
 
 before_script:
   # Download and unzip the zola executable
