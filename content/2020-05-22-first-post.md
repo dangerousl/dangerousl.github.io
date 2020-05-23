@@ -60,6 +60,10 @@ Using the codeblock as follows...
 
 Oh here's one now.
 
+{% quote(author='Melvin "Big Smoke" Harris') %}
+ If you can eat your food, while everybody loses theirs, you straight, homie!
+{% end %}
+
 Now, if you use a markdown preview. It's going to look hideous.
 
 <img src="/images/ugly522.PNG" alt="so ugly" 
