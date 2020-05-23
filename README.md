@@ -1,2 +1,4 @@
-# dangerousl.github.io
-A static site for writing things on
+dangerousl.github.io
+
+It is what is says.
+Here's a bad readme.
