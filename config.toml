@@ -15,7 +15,7 @@ build_search_index = true
 generate_rss = true
 
 # The current theme, which must be installed in ../themes
-theme = "zulma"
+theme = "Zulma"
 
 # Zulma taxonomies
 taxonomies = [
