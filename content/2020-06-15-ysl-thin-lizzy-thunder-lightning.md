@@ -22,11 +22,10 @@ Maybe you're tired of sitting around at home. Maybe you were just looking for an
 
 But, maybe you're genuinely are interested to hear what I meant when you heard the garbled words "Thin Lizzy's new LP" come through the corded phone hanging off the wall in your parent's kitchen. You hop on your bike and pedal down to my end of the neighborhood.
 
-<img src="images/thin_lizzy_tl.PNG"
-     alt=""
-     style="" />
-<!-- more -->
+<img src="/images/thin_lizzy_tl.PNG" alt="" 
+width="250"/>
 
+<!-- more -->
 
 ## Lynott's Unintended Farewell
 
