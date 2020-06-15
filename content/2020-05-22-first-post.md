@@ -64,7 +64,7 @@ Oh here's one now.
  If you can eat your food, while everybody loses theirs, you straight, homie!
 {% end %}
 
-Now, if you use a markdown preview. It's going to look hideous.
+Now, if you use a markdown preview, it's going to look hideous.
 
 <img src="/images/ugly522.PNG" alt="so ugly" 
 width="500"/>
