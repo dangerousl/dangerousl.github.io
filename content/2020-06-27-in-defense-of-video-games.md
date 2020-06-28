@@ -50,7 +50,7 @@ On topic, there were quite a few games that pushed the boundaries of what a chil
 
 I have a few examples of text from the game _Dragon Warrior III_, of which I was in the 4th grade when I started playing. 
 
-<img src="/images/dq3sticker.PNG" alt="" 
+<img src="/images/dq3sticker.png" alt="" 
 width="275" style="float: left;"/>
 
 > Rumor has it that you can go from the cave on the **promontory** to the Tower of Najima.
