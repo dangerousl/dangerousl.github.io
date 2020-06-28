@@ -80,7 +80,7 @@ I don't want to skip this here, I can't stress enough that the awesome soundtrac
 
 I did not read many books as a child, believe it or not. I do not read many books to this day. 
 
-I did spend a lot of time on the computer or video game console. By the 5th grade, I was able to boast college level skills in reading a comprehension. I developed a passion for music that has thankfully turned into a lifelong thing for me now.
+I did spend a lot of time on the computer or video game console. By the 5th grade, I was able to boast college level skills in reading comprehension. I developed a passion for music that has thankfully turned into a lifelong thing for me now.
 
 All this pontificating might make it seem I'm advocating that video games assist in childhood learning development. The anectodal evidence I've provided proves almost nothing - each person is different and learns at their own pace. Still, I'm confident my path gave me a boost in my education. 
 
