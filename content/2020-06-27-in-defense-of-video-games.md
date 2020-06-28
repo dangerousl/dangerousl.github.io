@@ -139,7 +139,7 @@ I started opening files, looking at everything the computer could tell me about 
 
 It took me some time, but I found the init config. Magical, I know.
 
-Long story short, I changed the default values for the requirements. The game ran perfectly fine, I discovered years later due to my fascination with the game, just in general but also because I spent so much time trying to get it to work, I really had to enjoy it, that it was written primarily by one man (Chris Sawyer) in assembly. 
+Long story short, I changed the default values for the requirements. The game ran perfectly fine, I discovered years later due to my fascination with the game, just in general but also because I spent so much time trying to get it to work, that it was written primarily by one man (Chris Sawyer) in assembly. 
 
 ### Other games
 
