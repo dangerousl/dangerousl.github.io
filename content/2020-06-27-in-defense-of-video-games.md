@@ -8,7 +8,7 @@ authors = ["dangerous_l"]
 categories = ["rants"]
 +++
 
-# Bold Dialogue Sparks Internal Monologue
+# In Which I Attempt to Validate My Most Significant Time Investment
 
 I was having a friendly discussion with a friend a few weeks ago, and during our chat something came up about using one's time to be productive or to simply "consume."
 
