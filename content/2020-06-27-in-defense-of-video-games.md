@@ -57,7 +57,7 @@ width="275" style="float: left;"/>
 
 > If you walk along the ocean from the castle you’ll come to a cave on the **promontory**.
 
-Did you know what a promontory was when you were in elementary school? Could you describe it now? I'm genuinely unsure. I didn't, but the context clues and my curiosity led to me a dictionary. I not only learned the word and how to use it, but also how to spell it.
+Did you know what a promontory was when you were in elementary school? Could you describe it now? I didn't, but the context clues and my curiosity led to me a dictionary. I not only learned the word and how to use it, but also how to spell it.
 
 ### Music, A Universal Language - Until You Try To Understand It
 Let's take one look at Ocarina of Time, as well. Just the names of the songs you learn:
@@ -74,7 +74,7 @@ At that level, all these words could be boiled down as adjectives of the word "s
 
 For brevity, let's use a single example. When you read the word "minuet," can you feel the time signature in your head? What if you had a base understanding of various musical styles before you started "officially" learning music in middle school or high school?
 
-I don't want to skip this here, I can't stress enough that the awesome soundtracks I listened to for hours on end while I played these games (or even just sat in the options menu to listen to the songs... seriously.) was a major contributor to my future passion in music.
+I don't want to skip this here, I can't stress enough that the awesome soundtracks I listened to for hours on end while I played these games (or even just sat in the options menu to listen to the songs... seriously.) contibuted heavily to a future passion in music.
 
 ### So, what did it end up _producing_?
 
