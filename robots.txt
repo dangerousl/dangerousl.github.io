@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dangerousl.github.io/sitemap.xml

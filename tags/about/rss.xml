@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title></title>
+        <link>https://dangerousl.github.io</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://dangerousl.github.io/tags/about/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>whoami</title>
+                <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+                <link>https://dangerousl.github.io/about/about/</link>
+                <guid>https://dangerousl.github.io/about/about/</guid>
+                <description>&lt;h3 id=&quot;hello-my-name-is-lydell&quot;&gt;Hello, my name is Lydell.&lt;&#x2F;h3&gt;
+&lt;p&gt;This is where most personal sites tell you they are &lt;strong&gt;X&lt;&#x2F;strong&gt; titled software engineer working at amazing company &lt;strong&gt;Y&lt;&#x2F;strong&gt; to make &lt;strong&gt;Z&lt;&#x2F;strong&gt; a better thing for the world.&lt;&#x2F;p&gt;
+&lt;p&gt;Instead, I&#x27;m going to muse about a few select topics in markdown. If you&#x27;ve found yourself here, welcome.&lt;&#x2F;p&gt;
+&lt;p&gt;You can find me online as &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;dangerous_l&quot;&gt;@dangerous_l&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>A First for Everything</title>
+                <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+                <link>https://dangerousl.github.io/first-post/</link>
+                <guid>https://dangerousl.github.io/first-post/</guid>
+                <description>&lt;h1 id=&quot;welcome&quot;&gt;Welcome&lt;&#x2F;h1&gt;
+&lt;p&gt;Truly, this is the first post on this site. Wonderful.&lt;&#x2F;p&gt;
+&lt;p&gt;As I state in the &lt;a href=&quot;&#x2F;about&#x2F;&quot;&gt;About&lt;&#x2F;a&gt; section here, I&#x27;m going to use this space to ramble on about a few things.&lt;&#x2F;p&gt;
+&lt;p&gt;If you&#x27;re able to tolerate a healthy amount of sarcasm poorly translated in text, I&#x27;ll use my first post to talk about my experience with setting up &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; for this purpose.&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
